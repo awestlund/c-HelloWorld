@@ -1,0 +1,11 @@
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/bin/Debug/netcoreapp2.1/someapp.deps.json
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/bin/Debug/netcoreapp2.1/someapp.runtimeconfig.json
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/bin/Debug/netcoreapp2.1/someapp.runtimeconfig.dev.json
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/bin/Debug/netcoreapp2.1/someapp.dll
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/bin/Debug/netcoreapp2.1/someapp.pdb
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/obj/Debug/netcoreapp2.1/someapp.csprojAssemblyReference.cache
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/obj/Debug/netcoreapp2.1/someapp.csproj.CoreCompileInputs.cache
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/obj/Debug/netcoreapp2.1/someapp.AssemblyInfoInputs.cache
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/obj/Debug/netcoreapp2.1/someapp.AssemblyInfo.cs
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/obj/Debug/netcoreapp2.1/someapp.dll
+/Users/amberwestlund/Desktop/c-HelloWorld/someapp/obj/Debug/netcoreapp2.1/someapp.pdb
